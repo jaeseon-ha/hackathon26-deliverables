@@ -85,14 +85,14 @@ ANSWERS = {
     "ans30": "4",                     # 15b columns
     "ans31": "yes",                   # 16a quotes in data.csv
     "ans32": "no",                    # 16a quotes in output
-    "ans33": "Keep the comma inside 'Salt Lake City, UT' from being read as a column separator",
+    "ans33": "So a comma inside a cell is not a separator",
     "ans34": "names = next(data)",    # 17a
     "ans35": "a list of strings (one string per column)",   # 17b
-    "ans36": "6,274 lines = 1 header + 6,273 institutions",  # 18a
+    "ans36": "6,274 (1 header + 6,273 data rows)",  # 18a
     "ans37": "3,308",                 # 18b
     "ans38": "0 to 163,164 students", # 19a
-    "ans39": "Southern New Hampshire University (163,164)",  # 19b
-    "ans40": "No: 795 rows are 'NA' (missing); 5,478 rows are integers",  # 19c
+    "ans39": "Southern New Hampshire University",  # 19b
+    "ans40": "No: 795 rows are 'NA', 5,478 are ints",  # 19c
     "ans41": "import matplotlib.pyplot as plt\nimport csv",
     "ans42": ("infile = open('scorecard.csv', newline='', encoding='utf-8')\n"
               "data = csv.reader(infile)\n"
