@@ -1,0 +1,4 @@
+# the College Scorecard data file (~100 MB) lives in the original assignment repo
+scorecard.csv
+__pycache__/
+.ipynb_checkpoints/
