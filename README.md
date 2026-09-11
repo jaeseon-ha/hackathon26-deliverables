@@ -25,6 +25,10 @@ python part1/stocktrading.py test
 
 Run a program normally by omitting `test` (e.g. `printf '35\n45\n' | python part1/speedingticket.py` prints `75`).
 
+## Flowcharts
+
+`docs/flowcharts.md` has a flowchart for every program (GitHub renders them as diagrams).
+
 ## Part 2 — discovery process (`part2/`)
 
 | File | What it is |
