@@ -1,7 +1,7 @@
 """
 discovery.py  --  "Visualizing Data" discovery activity (Models 1-3)
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Companion program for the MatPlotLib discovery worksheet.
              model_one()   - plots one/two cycles of a sine wave (Model 1)

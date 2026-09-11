@@ -1,7 +1,7 @@
 """
 stocktrading.py
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Define maxProfit(prices), where prices[i] is a stock's price on
            day i. Choosing ONE day to buy and a LATER day to sell, return the

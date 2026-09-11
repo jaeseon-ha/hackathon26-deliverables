@@ -1,7 +1,7 @@
 """
 countinput.py
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Define countchars(st), which returns the number of characters in a
            string EXCLUDING spaces, periods, exclamation points, and commas.

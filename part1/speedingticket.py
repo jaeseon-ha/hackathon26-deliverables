@@ -1,7 +1,7 @@
 """
 speedingticket.py
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Read a speed limit and a driving speed (both integers, in mph)
            from standard input and print the traffic ticket amount:

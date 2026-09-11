@@ -1,7 +1,7 @@
 """
 fill_worksheet.py
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Fill the fillable fields of "MatPlotLib discovery.pdf" with our
            team's answers and write "MatPlotLib discovery - filled.pdf".
@@ -17,8 +17,8 @@ from pypdf import PdfReader, PdfWriter
 # ---- team roles (edit here) -------------------------------------------
 MANAGER   = "Jaeseon Ha"
 PRESENTER = "Jaeseon Ha"
-RECORDER  = ""
-REFLECTOR = ""
+RECORDER  = "Tanishq Kishnani"
+REFLECTOR = "Tanishq Kishnani"
 
 ANSWERS = {
     # page 1: roles

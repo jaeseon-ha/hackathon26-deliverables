@@ -1,7 +1,7 @@
 """
 heatingcooling.py
 
-Author(s): Jaeseon Ha
+Author(s): Jaeseon Ha, Tanishq Kishnani
 Created:   2026-09-11
 Purpose:   Repeatedly ask the user for an average daily temperature (integer,
            degrees Fahrenheit) and keep running totals of

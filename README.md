@@ -1,6 +1,6 @@
 # hackathon26 deliverables
 
-**Author(s):** Jaeseon Ha  
+**Author(s):** Jaeseon Ha, Tanishq Kishnani  
 **Created:** 2026-09-11  
 **Assignment source:** <https://github.com/akurdia/hackathon26>
 
